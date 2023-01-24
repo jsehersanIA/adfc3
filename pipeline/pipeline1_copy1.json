@@ -18,6 +18,12 @@
 				}
 			}
 		],
+		"parameters": {
+			"parametro1": {
+				"type": "string",
+				"defaultValue": "que tal"
+			}
+		},
 		"variables": {
 			"mensaje": {
 				"type": "String"
