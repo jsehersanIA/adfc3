@@ -5,7 +5,13 @@
 			{
 				"name": "Set variable1",
 				"type": "SetVariable",
-				"dependsOn": []
+				"dependsOn": [],
+				"userProperties": [
+					{
+						"name": "mensaje",
+						"value": "hola"
+					}
+				]
 			}
 		],
 		"annotations": []
