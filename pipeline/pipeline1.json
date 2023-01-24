@@ -11,9 +11,18 @@
 						"name": "mensaje",
 						"value": "hola"
 					}
-				]
+				],
+				"typeProperties": {
+					"variableName": "mensaje",
+					"value": ""
+				}
 			}
 		],
+		"variables": {
+			"mensaje": {
+				"type": "String"
+			}
+		},
 		"annotations": []
 	}
 }
